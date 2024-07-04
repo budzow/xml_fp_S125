@@ -1,0 +1,18 @@
+<ex2>
+	<!--
+	<scm>
+		<connection>ssh</connection>
+		<developerConnection>shs</developerConnection>
+		<url>https://www.google.com</url>
+		<tag>HEAD</tag>
+	</scm>
+	-->
+	<!--
+	<parent>
+		<groupId>com.akamai</groupId>
+		<artifactId>dash-mule-parent-pom</artifactId>
+		<version>1.1.4</version>
+
+	</parent>
+	-->
+</ex2>
